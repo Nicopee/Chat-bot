@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "firstaidhealthcarechatbot-aptm",
+  "private_key_id": "44d149dbb1e8321f6e7ddae01572229e414d0be1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZWZAS0l+LNdS0\nRESR4m3aRekpycB1R7jGTnVMkO49fe+dIRDyOR8KysnGAwRbZdrrNYS/Lhi53jIa\nbjV1E5kO2kpnooVXelo/tiGht2VrmHWmsXphzA3Cl491eBcZ/DGXu7p+IkWTAYOn\n9+OnM6xnTPqqPR8nbrbIk1XDCpAzJ+WEOkBAQZPEJhPsocpvUQeiECnX6ai2CJVY\nUmjiz02AzoRsva/0WSlXKx/TVr7XARbWDDz+aUi3SPLhNQ+MnifWogw5izmksO6/\neeUTY8CYw1ZpqInqVSz9iY2XB8n7pa1+KpOFpaGmelLnzFQ7mAtnn6BGYpH0ENQc\n807Qj30LAgMBAAECggEAJCTvPxoJ9noIucOijYoUj5hRqnfZEAfR0/SHMCjn3YT8\nXGp7yXQzU9WeUVX+Gv7otXWsciiFxx8KwPdz31jXeq9VcT+HIiGAMZklpaF8dbSg\nWAyql+nZnfMbUcMbQGB+lMeMv14OqOA3Fy8zhgIjWPhltPq+HA4eymMp/2nZyg+5\nZ7hlanTV6yxNPMJVgZ4sz//IgZpD/FAIhnLv6dLhcLPT8R8DRkHECDPZ1ouK37sE\ndPRqAoJ76qSYvgt4GplBK1PZAtZQANHVUbaFNiMw/7McQvEETs6RW6j+pg/FaF41\nuFJnmWKWIQvZU2bGyq8L9vhF4ZysWjU88p9zYb/J3QKBgQD1u+Zpri0FenteA5Qh\nJujmca/stxjAoFrG/KaY8FAD9ToAWiYmyczk/d4KMyFye4uoBT3tcBAacqpPeDRe\nfZREhA89NSSA6cWsgSUmIy2ruvb/EZjAkh0L2f2P4jEfJxg+68CPQz0dsGx6jN0F\nYdhRQx2lYT9i2Cu7zVZLxQujlQKBgQDibhjsYlH+1l0UekB5eJ1Yv8zmpIPe7AUY\nxe040lVOLrVNxyUS9fo/6Poqapun0aADz11Eva4GxHv7eAfvRN45/CrEDhVDjMEX\nhtvJ4XZPbZ8l+spJe9sPbyayeuRTwGVPUYWDTqFTDY5J37rpA0479/FP2PHzb88U\n6IU6i8B2HwKBgCxFWOKLNaM6CMXMQUCjwOvbaYVtCzGQ8inNVLpS+SdtY7CyjRMJ\n4jcTIZCW25zDc0qm/xwqx0vsgpBkqJKpby/U1uYBD/2FoE5OygGP7ud0fJFBe1Ke\nQEtlT5A/gPgK1Axp7rwgsf8KTNDbVeplUVJ6k/m6hm/pYB+qg7SM4GbtAoGBALBd\nHOCRvFgH07wtdKaogbYsvoYvQd+Sam3fTGRjv7oDu4f3QzM/kEnTR3deThsqtb4B\n+B2guDnhNMirt1Jwi78SYKUQaxOQQJ34lpzqFeLL+Zf1fTY7WGbvJm8CNXHee4qK\nbrnVtuYfuuJjdwwjXP5sovKUgfAg+GTKr2roi2H1AoGACfo5UP8CLR1Fb9SxgWFu\n1ZruWeQnkPRgUi+GY35ZMBtbLOsQ+FSCUt0ZaNj5cqKIsk0w2gqu1BBRn2I6+Zen\nSPz/emcKo6p2Hhmsr3i8ekAFQGQKjWnR8OWuMaATXk/Z1O2+M3zi9ClWuoOgxsy3\nYSfesP1cA+n8opzWcPvTIWg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firstaidchatbot-499@firstaidhealthcarechatbot-aptm.iam.gserviceaccount.com",
+  "client_id": "118173075087767969240",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firstaidchatbot-499%40firstaidhealthcarechatbot-aptm.iam.gserviceaccount.com"
+}
