@@ -47,6 +47,7 @@ dependencies:
   lottie: ^1.0.1
   url_launcher: ^6.0.10
   font_awesome_flutter: ^9.1.0
+  smooth_page_indicator: ^1.0.1
 
 dev_dependencies:
   flutter_test:
@@ -73,6 +74,7 @@ flutter:
   assets:
     - assets/firstaidhealthcarechatbot-aptm-44d149dbb1e8.json
     - .env
+    - assets/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

@@ -17,7 +17,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   void startTimer() {
     timer = Timer(const Duration(seconds: 3), () async {
-      Get.offNamedUntil('/dashboard', (route) => false);
+      Get.offNamedUntil('/intro_page', (route) => false);
     });
   }
 
@@ -37,6 +37,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   Widget build(BuildContext context) {
+    double height = MediaQuery.of(context).size.height;
     return Scaffold(
       backgroundColor: Colors.blue,
       body: Stack(
@@ -45,21 +46,10 @@ class _SplashScreenState extends State<SplashScreen> {
               child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const SizedBox(
-                height: 10,
+              SizedBox(
+                height: 0.4 * height,
+                child: Image.asset('assets/image1.png'),
               ),
-              Text(
-                'CHATBOT',
-                style: Theme.of(context).textTheme.titleLarge?.copyWith(
-                    color: Colors.white, fontWeight: FontWeight.bold),
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text('First AID CHATBOT',
-                  style: Theme.of(context).textTheme.titleSmall?.copyWith(
-                        color: Colors.white,
-                      ))
             ],
           )),
           const Positioned(

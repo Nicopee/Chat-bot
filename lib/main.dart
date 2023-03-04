@@ -1,4 +1,5 @@
 import 'package:dialogflowchatbot/dashboard.dart';
+import 'package:dialogflowchatbot/intro.dart';
 import 'package:dialogflowchatbot/splashScreen.dart';
 import 'package:flutter/material.dart';
 import 'chatScreen.dart';
@@ -67,11 +68,11 @@ class MyApp extends StatelessWidget {
       routes: <String, WidgetBuilder>{
         // '/': (_) => Login(),
         // '/success': (_) => Success(),
-        '/splash_screen': (_) => SplashScreen(),
+        '/splash_screen': (_) => const SplashScreen(),
         // '/password_reset': (_) => ForgotPasswordScreen(),
         '/chat_screen': (_) => const ChatScreen(),
         '/dashboard': (_) => Dashboard(),
-        // '/asset_details': (_) => AssetDetails(),
+        '/intro_page': (_) => Intro(),
         // '/live_tracking': (_) => LiveTracking()
       },
     );
